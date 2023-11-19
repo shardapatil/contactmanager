@@ -1,0 +1,59 @@
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #cad3d6bd;
+    width: 90%;
+    margin-left: 6%;
+    
+  }
+  
+  .ui.avatar.image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .content {
+    margin-left: 10px;
+  }
+  
+  .trash.alternate.outline.icon {
+    cursor: pointer;
+    color: #ff4500; /* OrangeRed color for the trash icon, you can change it */
+    font-size: 20px;
+  }
+  
+  .trash.alternate.outline.icon:hover {
+    color: #b22222; /* DarkRed color on hover, you can change it */
+  }
+  
+  /* Style for the Ant Design Modal */
+  .ant-modal-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .ant-modal-content {
+    border-radius: 8px;
+  }
+  
+  .ant-modal-footer {
+    border-top: none;
+  }
+  
+  .ant-btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }
+  
+  .ant-btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

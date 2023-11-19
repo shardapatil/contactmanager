@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "Admin",
+      "password": "Admin",
+      "id": 1
+    },
+    {
+      "email": "naiknikhil596@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "Admin1",
+      "password": "Admin1",
+      "id": 3
+    },
+    {
+      "email": "test",
+      "password": "test",
+      "id": 4
+    }
+  ]
+}
